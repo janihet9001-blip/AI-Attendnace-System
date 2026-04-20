@@ -184,9 +184,9 @@ assets/
 Then use:
 
 ```md
-![Dashboard](assets/Screenshot (1).png)
-![Detection](assets/Screenshot (2).png)
-![Report](assets/Screenshot (3).png)
+![Dashboard](assets/Screenshot%20(1).png)
+![Detection](assets/Screenshot%20(2).png)
+![Report](assets/Screenshot%20(3).png)
 ```
 ---
 
