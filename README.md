@@ -176,17 +176,17 @@ streamlit run Home.py
 
 ```
 assets/
-│── dashboard.png
-│── detection.png
-│── report.png
+│── Screenshot (1).png
+│── Screenshot (2).png
+│── Screenshot (3).png
 ```
 
 Then use:
 
 ```md
-![Dashboard](assets/dashboard.png)
-![Detection](assets/detection.png)
-![Report](assets/report.png)
+![Dashboard](assets/Screenshot (1).png)
+![Detection](assets/Screenshot (2).png)
+![Report](assets/Screenshot (3).png)
 ```
 ---
 
