@@ -81,19 +81,31 @@ Camera/Input → Face Detection → Embedding → Matching → Redis → Reports
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```
 AI-Attendance-System/
-│── Home.py
-│── face_rec.py
-│── 1_Real_Time_Prediction.py
-│── 2_Registration_form.py
-│── 3_Report.py
-│── requirements.txt
+│── app.py                 # Main Streamlit application (entry point)
+│── face_rec.py            # Core AI logic (face recognition + Redis)
+│── phone_camera.py        # Connect mobile camera (IP webcam)
+│── video.py               # Video-based face detection
+│── test_phone_cam.py      # Testing phone camera connection
+│── upload_logs.py         # Upload and manage attendance logs
+
+│── pages/                 # Streamlit multi-page modules
+│   ├── 1_Real_Time_Prediction.py   # Live attendance system
+│   ├── 2_Registration_form.py      # User registration module
+│   ├── 3_Report.py                 # Attendance reporting dashboard
+
+│── assets/                # Images, screenshots, demo files
+│   ├── dashboard.png
+│   ├── detection.png
+│   ├── report.png
+
+│── .gitignore             # Git ignore rules
+│── README.md              # Project documentation
 ```
 
----
 
 ##  Tech Stack
 
