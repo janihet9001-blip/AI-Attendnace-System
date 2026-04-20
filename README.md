@@ -182,12 +182,11 @@ assets/
 ```
 
 Then use:
-
-```md
-![Dashboard](assets/Screenshot%20(1).png)
-![Detection](assets/Screenshot%20(2).png)
-![Report](assets/Screenshot%20(3).png)
-```
+<p align="center">
+  <img src="assets/dashboard.png" width="30%">
+  <img src="assets/detection.png" width="30%">
+  <img src="assets/report.png" width="30%">
+</p>
 ---
 
 ## 🔮 Future Enhancements
