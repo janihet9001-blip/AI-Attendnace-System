@@ -172,46 +172,25 @@ streamlit run Home.py
 
 ##  Demo
 
-> Add screenshots inside `assets/` folder
+<p align="center">
+  <img src="assets/dashboard.png" width="30%" alt="Main Dashboard">
+  <img src="assets/detection.png" width="30%" alt="Real-Time Detection">
+  <img src="assets/report.png" width="30%" alt="Attendance Report">
+</p>
 
-```
-assets/
-│── Screenshot (1).png
-│── Screenshot (2).png
-│── Screenshot (3).png
-```
+<p align="center">
+  <b>Main Dashboard</b> &nbsp;&nbsp;&nbsp;
+  <b>Real-Time Detection</b> &nbsp;&nbsp;&nbsp;
+  <b>Attendance Report</b>
+</p>
 
-Then use:
+##  Future Enhancements
 
-```md
-![Dashboard](assets/Screenshot%20(1).png)
-![Detection](assets/Screenshot%20(2).png)
-![Report](assets/Screenshot%20(3).png)
-```
----
+*  Authentication system
+*  Mobile app integration
+*  Cloud deployment
+*  Export to Excel / PDF
+*  Analytics dashboard
 
-## 🔮 Future Enhancements
-
-* 🔐 Authentication system
-* 📱 Mobile app integration
-* ☁️ Cloud deployment
-* 📥 Export to Excel / PDF
-* 📊 Analytics dashboard
-
----
-
-## Resume Value
-
-This project demonstrates:
-
-* AI + Computer Vision
-* Real-time processing
-* Database integration
-* Full-stack development
-
- Ideal for:
-
-* AI/ML Internships
-* Software Engineering roles
 
 ---
