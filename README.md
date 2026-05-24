@@ -184,13 +184,6 @@ streamlit run Home.py
   <b>Attendance Report</b>
 </p>
 
-##  Future Enhancements
-
-*  Authentication system
-*  Mobile app integration
-*  Cloud deployment
-*  Export to Excel / PDF
-*  Analytics dashboard
 
 
 ---
