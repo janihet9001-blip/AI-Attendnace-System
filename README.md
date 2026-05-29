@@ -16,16 +16,6 @@
 
 This project is an **AI-powered attendance system** that uses **real-time face recognition** to automate attendance tracking.
 
-###  Why this project?
-
-* Eliminates manual entry
-* Prevents proxy attendance
-* Provides **real-time tracking + detailed reports**
-
----
-
-##  Features
-
 ###  Core Features
 
 *  Real-time face detection & recognition
